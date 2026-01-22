@@ -1,0 +1,29 @@
+name: CLIM614_2025
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bottleneck
+  - cartopy
+  - cftime
+  - dask
+  - flox
+  - h5netcdf
+  - h5py
+  - hdf4
+  - hdf5
+  - ipython
+  - jupyter
+  - jupyterlab=3.4.2
+  - matplotlib
+  - metpy
+  - netcdf4
+  - numpy
+  - palettable
+  - pandas
+  - proj
+  - python>=3.12.4
+  - scipy
+  - seaborn
+  - siphon
+  - xarray
